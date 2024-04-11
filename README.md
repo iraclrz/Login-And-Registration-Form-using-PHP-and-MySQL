@@ -1,2 +1,2 @@
 # Login-And-Registration-Form-using-PHP-and-MySQL
-Login form and registration form using PHP and MySql. I also use Xampp control panel
+This project entails crafting a login and registration system with PHP, MySQL, and CSS, managed within the XAMPP control panel. The login form securely handles user input, authenticating against MySQL data. Meanwhile, the registration form validates and stores user details in the database. CSS enhances the interface design. XAMPP, with its Apache and MySQL integration, simplifies setup. Overall, the aim is to create a user-friendly authentication solution for web applications.
